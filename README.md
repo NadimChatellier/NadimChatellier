@@ -5,8 +5,7 @@ I just recently graduated from NorthCoders! Now its time to take these skills in
 
 ### 🔭 I’m currently working on...
 - Building a unit manager for Warhammer 40k, because if Games Workshop won't do it, *I* will. React and Node.js are my weapons of choice for making army management as easy as rolling dice.
-- Improving GameSwap! There are still plenty of features to implement. Check out the current version here: game-swap.netlify.app.
-
+- Improving [GameSwap](https://game-swap.netlify.app)! There are still plenty of features to implement. Check out the current version here.
 
 ### 📫 How to reach me:
 - Email: nadimchatellier@gmail.com
