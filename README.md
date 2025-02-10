@@ -1,5 +1,12 @@
 ## 😃  Hey there! I'm Nadim Chatellier!
 💻  Junior Software Engineer | Code Enthusiast | Tech Tinkerer | Lover of all things nerdy
+### 🛠️ Technologies & Tools:
+Languages: JavaScript, TypeScript, Python, C
+Back-end: SQL, PSQL, Flask, Express, Migrations, Seeding, Firebase, Supabase
+Front-end: HTML, CSS, Tailwind, React, Accessibility tools (Lighthouse), MUI, Shadcn, Next.js
+Testing: Test Driven Development (TDD), Jest, Supertest
+Hosting: Netlify, Render, Vercel
+Other: Agile, SCRUM, Paired Programming, SDL, Technical Communication
 
 I just recently graduated from NorthCoders! Now its time to take these skills into the world of software development and show what I am made of!
 ### 🔭 I’m currently working on...
