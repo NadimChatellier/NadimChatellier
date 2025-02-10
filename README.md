@@ -9,7 +9,7 @@ I just recently graduated from NorthCoders! Now its time to take these skills in
 
 ### 📫 How to reach me:
 - Email: nadimchatellier@gmail.com
-- LinkedIn: [[linkedin.com/in/nadim](https://linkedin.com/in/nadim)](https://www.linkedin.com/in/nadim-chatellier-781b91279/)
+- LinkedIn: [(https://www.linkedin.com/in/nadim-chatellier-781b91279/)
 
 ### 😄 Pronouns: He/Him
 
